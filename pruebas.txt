@@ -1,7 +1,6 @@
 Cosas para hacer
 
-Cosas para hacer
+- crear carpeta oculta app/
+- crear archivo main.py
+- crear los modelos y migrar estos
 
-- crear carpeta oculta appe/
-- crear archivo main4.py por cada2 carpeta
-- crear los modelos y migrar estos5
