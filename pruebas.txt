@@ -1,5 +1,5 @@
 Cosas para hacer
 
 - crear careta app/
-- crear archivo mai.py
-- hacer migraciones
+- crear archivo main1.py
+- hacer migraciones de los modelos
