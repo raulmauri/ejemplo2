@@ -1,5 +1,7 @@
 Cosas para hacer
 
-- crear careta app/
-- crear archivo main1.py
-- hacer migraciones de los modelos
+Cosas para hacer
+
+- crear carpeta oculta appe/
+- crear archivo main4.py por cada carpeta
+- crear los modelos y migrar estos
