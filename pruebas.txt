@@ -1,0 +1,5 @@
+Cosas para hacer
+
+- crear careta app/
+- crear archivo mai.py
+- hacer migraciones
