@@ -2,6 +2,6 @@ Cosas para hacer
 
 Cosas para hacer
 
-- crear carpeta oculta appe/
-- crear archivo main4.py por cada carpeta
-- crear los modelos y migrar estos
+- crear cadrpeta oculta appe/
+- crear archivo main16.py por cada carpetaee
+- crear los mddodelos y migrar estos
